@@ -31,3 +31,4 @@ WebUI.setEncryptedText(findTestObject('Object Repository/3rd-Web-Test/Page_CURA 
 WebUI.sendKeys(findTestObject('Object Repository/3rd-Web-Test/Page_CURA Healthcare Service/input_Password_password'), Keys.chord(
         Keys.ENTER))
 
+WebUI.takeScreenshotAsCheckpoint('current_viewport')

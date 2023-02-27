@@ -30,3 +30,4 @@ WebUI.setEncryptedText(findTestObject('Object Repository/2nd-Web-Test/Page_CURA 
 
 WebUI.click(findTestObject('Object Repository/2nd-Web-Test/Page_CURA Healthcare Service/button_Login'))
 
+WebUI.takeScreenshotAsCheckpoint('current_viewport')
