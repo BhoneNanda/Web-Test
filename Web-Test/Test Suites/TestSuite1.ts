@@ -12,13 +12,6 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>d4f819ae-29b9-4910-941b-1996d1fdefc3</testSuiteGuid>
    <testCaseLink>
-      <guid>32f07ed0-ed6c-492e-bc5c-5f44c2837f20</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/1st-Web-Test</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
       <guid>84fb3960-28e8-43f2-a69e-eda18d4078e4</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
